@@ -1,0 +1,31 @@
+  .Green{
+            color: green;
+        }   
+        .red{
+            color: red;
+        }
+        .G{
+            font-size: large;
+            background-color: blue;
+        }
+        .H{
+            font-size: x-large;
+            background-color: yellow;
+        }
+        #LOREM{
+            background-color: brown;
+            color: white;
+            font-size: large;
+        }
+       
+        a:hover{
+            color: green;
+        }
+        .next:hover{
+            color: red;
+        }
+        .n:hover{
+            color: yellow;
+        }
+
+        

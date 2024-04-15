@@ -1,0 +1,26 @@
+#box1{
+    order: 2;
+    /* flex-grow: 1; */
+    align-self: flex-start;
+}
+#box2{
+    /* order: 1; */
+    order: 5;
+    align-self: flex-end;
+}
+#box3{
+    order: 3;
+    /* flex-grow: 1; */
+    align-items: stretch;
+}
+#box4{
+    order: 4;
+    /* flex-grow: 1; */
+}
+.box{
+    border: 1px solid brown;
+    background-color: aqua;
+    /* flex-grow: 1; */
+    /*   */
+    flex-basis: 100px;
+}

@@ -1,0 +1,33 @@
+.container{
+    height: 500px;
+    width: 500px;
+    background-color: green;
+    border: 2px solid red;
+    display: flex;
+}
+.box{
+    height: 150px;
+    width: 150px;
+    background-color: blueviolet;
+    border: 2px solid aqua;
+    transition: 1s;
+    /* transition-property: all; */
+}
+.box:hover{
+    background-color: brown;
+}
+#Ra:hover{
+    background-color: blue;
+}
+#hul:hover{
+    background-color:  yellow;
+}
+#Ya:hover{
+    background-color: aqua;
+}
+#man:hover{
+    background-color: pink;
+}
+
+
+
